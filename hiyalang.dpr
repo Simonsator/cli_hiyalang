@@ -1,5 +1,5 @@
 {
-  v0.5 @ 06.02.2022
+  v0.6 @ 08.06.2022
   This patcher utility is written by Yoti
   American region support added by Simonsator
   Mostly based on Mighty Max's work - thx
@@ -34,7 +34,7 @@ uses
   WinApi.Windows;
 
 const
-  ProgramTitle: String = 'HiyaCFW language patcher v0.4' + #13#10 +
+  ProgramTitle: String = 'HiyaCFW language patcher v0.6' + #13#10 +
                          '-- https://github.com/Yoti --';
   LocalFileArr: Array[0..1] of String = (
     '00000000.app', '00000002.app'
